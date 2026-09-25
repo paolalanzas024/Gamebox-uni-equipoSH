@@ -3,4 +3,5 @@
 proyecto practica para sistemas y computacion
 
 ## Byte
-byte atraviesa paredes
+byte se detiene ante las paredes
+Byte detecta errores ocultos
