@@ -1,6 +1,7 @@
 # Gamebox-uni-equipoSH
 
-proyecto practica para sistemas y computacion
+proyecto practica para sistemas y computación
 
 ## Byte
-byte atraviesa paredes
+Byte se detiene ante las paredes
+Byte detecta errores ocultos
